@@ -9,3 +9,5 @@ build/
 .env
 
 *.log
+cache_html/*
+index_data.json
